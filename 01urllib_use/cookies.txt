@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+139.224.95.172	FALSE	/	FALSE		SERVERID	c9b943df153135e56c6a1a268ddc1439|1562168882|1562168882
+139.224.95.172	FALSE	/wechat-web	FALSE		sid	be689b1c-268c-46f0-bc40-d4d4c635d57c
